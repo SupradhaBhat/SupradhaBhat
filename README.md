@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SupradhaBhat
-- 👀 I’m interested in Programming and web development 
+- 👀 I’m interested in Programming, Computer Networks and web development 
 - 🌱 I’m currently working on improving my DSA, Full Stack web development and learning ML 
 - 📫 How to reach me "My linkedin handle" @ www.linkedin.com/in/y-supradha-bhat-b92269229
 
